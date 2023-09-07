@@ -14,3 +14,22 @@
   right: 315px;
   top: 45px;
 }
+
+.logo {
+  width: 200px;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.input {
+  width: 250px;
+  height: 35px;
+  font-size: 9pt;
+  padding-left: 10px;
+  outline: none;
+  background-color: whitesmoke;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
