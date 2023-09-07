@@ -1,4 +1,16 @@
 .iphone {
-  width: 377px;
-  height: 580px;
+  width: 379px;
+  height: 582px;
+  position: absolute;
+  left: 315px;
+  top: 30px;
+}
+
+.userInterface {
+  width: 345px;
+  height: 400px;
+  border: 1px solid lightgray;
+  position: absolute;
+  right: 315px;
+  top: 45px;
 }
