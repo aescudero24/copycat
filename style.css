@@ -33,3 +33,35 @@
   border-radius: 3px;
   margin-bottom: 5px;
 }
+
+.login {
+  margin-top: 10px;
+  width: 264px;
+  height: 35px;
+  font-size: 10pt;
+  color: white;
+  background-color: rgb(76, 181, 247);
+  border: none;
+  border-radius: 10px;
+}
+
+.leftBar {
+  color: lightgray;
+  position: absolute;
+  left: 35px;
+  bottom: 75px;
+}
+
+.or {
+  color: darkgray;
+  position: absolute;
+  left: 162px;
+  bottom: 73px;
+}
+
+.rightBar {
+  color: lightgray;
+  position: absolute;
+  right: 35px;
+  bottom: 75px;
+}
