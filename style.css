@@ -157,3 +157,27 @@
 .storesButton:hover {
   cursor: pointer;
 }
+
+.footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  justify-content: flex-end;
+}
+
+.foot {
+  text-align: center;
+  font-size: 8pt;
+  color: gray;
+}
+
+.sum {
+  padding-right: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sum:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
